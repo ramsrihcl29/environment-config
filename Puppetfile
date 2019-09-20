@@ -18,3 +18,6 @@ forge 'https://forge.puppet.com'
 mod 'tomcat',
   :git    => 'https://github.com/ramsrihcl29/tomcat.git',
   :branch => 'production'
+mod 'java',
+  :git    => 'https://github.com/ramsrihcl29/java.git',
+  :branch => 'production'

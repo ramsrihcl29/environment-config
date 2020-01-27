@@ -21,3 +21,9 @@ mod 'tomcat',
 mod 'java',
   :git    => 'https://github.com/ramsrihcl29/java.git',
   :branch => 'production'
+mod 'stdlib',
+  :git    => 'https://github.com/ramsrihcl29/stdlib.git',
+  :branch => 'production'
+mod 'ntp',
+  :git    => 'https://github.com/ramsrihcl29/ntp.git',
+  :branch => 'production'

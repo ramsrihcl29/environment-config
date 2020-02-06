@@ -27,3 +27,10 @@ mod 'stdlib',
 mod 'ntp',
   :git    => 'https://github.com/ramsrihcl29/ntp.git',
   :branch => 'production'
+mod 'roles',
+  :git    => 'https://github.com/ramsrihcl29/roles.git',
+  :branch => 'production'
+mod 'profiles',
+  :git    => 'https://github.com/ramsrihcl29/profiles.git',
+  :branch => 'production'
+

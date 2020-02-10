@@ -1,6 +1,3 @@
-node 'pupetagent2.localdomain' {
-  include java::install
-  include tomcat
-  include ntp
-  
+node 'pupetagent5.localdomain' {
+  include roles::rhel6::base_rhel6
 }
